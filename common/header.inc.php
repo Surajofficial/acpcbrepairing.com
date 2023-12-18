@@ -5,13 +5,24 @@
 
 
 <head>
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-P2TWFGX');</script>
-<!-- End Google Tag Manager -->
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-P2TWFGX');
+    </script>
+    <!-- End Google Tag Manager -->
 
 
     <meta charset="utf-8">
@@ -29,28 +40,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta name="robots" content="index, follow">
     <meta name="copyright" content="Multitech">
     <style>
-    @media screen and (max-width: 500px) {
-            .mobile_enquiry{
-            min-width:120px !important;
-            font-size: 12px;
-             height:37px !important; 
-             overflow:hidden;
+        @media screen and (max-width: 500px) {
+            .mobile_enquiry {
+                min-width: 120px !important;
+                font-size: 12px;
+                height: 37px !important;
+                overflow: hidden;
             }
-            .enquiry{
-            min-width: 120px !important;
+
+            .enquiry {
+                min-width: 120px !important;
             }
-            
+
         }
     </style>
     <meta name="dcterms.rightsHolder" content="Multitech Institute of Advance Technologies Pvt. Ltd">
-<?php if (str_replace('/', '', $_SERVER['PHP_SELF']) == 'page.php') { ?>
-    <link rel="canonical" href="<?= URL . $_GET['url']  ?>" />
+    <?php if (str_replace('/', '', $_SERVER['PHP_SELF']) == 'page.php') { ?>
+        <link rel="canonical" href="<?= URL . $_GET['url']  ?>" />
     <?php } else if (str_replace('/', '', $_SERVER['PHP_SELF']) == "blogindex.php") { ?>
-    <link rel="canonical" href="<?= URL . "blog"  ?>" />
+        <link rel="canonical" href="<?= URL . "blog"  ?>" />
     <?php } else if (str_replace('/', '', $_SERVER['PHP_SELF']) == "index.php") { ?>
-    <link rel="canonical" href="<?= str_replace('.com/', '.com', URL)  ?>" />
+        <link rel="canonical" href="<?= str_replace('.com/', '.com', URL)  ?>" />
     <?php } else { ?>
-    <link rel="canonical" href="<?= URL . str_replace('/', '', $_SERVER['PHP_SELF']) ?>" />
+        <link rel="canonical" href="<?= URL . str_replace('/', '', $_SERVER['PHP_SELF']) ?>" />
     <?php } ?>
     <link rel="shortcut icon" href="<?= URL ?>assets/media/icon.png" type="image/x-icon">
     <link rel="icon" href="<?= URL ?>assets/media/icon.png" type="image/x-icon">
@@ -82,7 +94,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             padding: 7px 0px 5px 0;
         }
 
-       
+
         @media screen and (max-width: 770px) {
             .for-mobile {
                 display: block;
@@ -91,7 +103,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             .mobile_section {
                 margin-top: 0px !important;
             }
-            28
         }
 
         slide {
@@ -105,11 +116,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </head>
 
 <body>
-    
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P2TWFGX"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P2TWFGX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
 
     <div class="container-fluid m-0 p-0 mt-0 text-center mobile_section ">
