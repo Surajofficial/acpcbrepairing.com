@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Ac Pcb Repairing Course",
+        "short_content": "If you're looking to get into the electronics repair business, then you'll need to know how to fix printed circuit boards (PCBs). And while there are a lot of different aspects to PCB repair...",
+        "url": "acpcb-repairing-course.php",
+        "image": "assets\/media\/course\/acpcb1.webp",
+        "image_small": "assets\/media\/course\/acpcb1.webp",
+        "image_big": "assets\/media\/course\/acpcb1.webp",
+        "img_alt": "AC PCB Repairing Course"
+    },
+    {
+        "title": "Ac Mechanical Course",
+        "short_content": "There are many AC Mechanical repair Courses out there, but how do you know which one is right for you? Here are a few factors to consider when making your decision...",
+        "url": "ac-mechanical-course.php",
+        "image": "assets\/media\/course\/acmechn1.webp",
+        "image_small": "assets\/media\/course\/acmechn1.webp",
+        "image_big": "assets\/media\/course\/acmechn1.webp",
+        "img_alt": "Ac Mechanical Repairing"
+    },
+    {
+        "title": "VRV AC Repairing Course",
+        "short_content": "In this post we will be discussing about the AC Repairing course. The objective of this course is to provide the students with the necessary skills and knowledge required for repairing air conditioners...",
+        "url": "vrv-ac-repairing-course.php",
+        "image": "assets\/media\/course\/vrvhome1.webp",
+        "image_small": "assets\/media\/course\/vrvhome1.webp",
+        "image_big": "assets\/media\/course\/vrvhome1.webp",
+        "img_alt": "VRV Ac Repairing Course"
+    },
+    {
+        "title": "EV Controller Repairing",
+        "short_content": "It is hard to say how many new jobs will be made possible by producing electric vehicles. But if electric cars became more popular, the number of people working in...",
+        "url": "ev-controller-repairing-course.php",
+        "image": "assets\/media\/course\/controller1.webp",
+        "image_small": "assets\/media\/course\/controller1.webp",
+        "image_big": "assets\/media\/course\/controller1.webp",
+        "img_alt": "EV Controller Repairing"
+    },
+    {
+        "title": "EV Motor Repairing",
+        "short_content": "This Ev motor repairing Course covers the most critical issues and basic ideas in the field. It focuses on the induction motor and how it should be specified, installed.....",
+        "url": "ev-motor-repairing-course.php",
+        "image": "assets\/media\/course\/motar1.webp",
+        "image_small": "assets\/media\/course\/motar1.webp",
+        "image_big": "assets\/media\/course\/motar1.webp",
+        "img_alt": "EV Motor Repairing"
+    },
+    {
+        "title": "EV Charger Repairing",
+        "short_content": "Charging stations for electric cars sometimes need to be fixed. Thanks to Electric City, you won't have to worry about service for as long as your charger....",
+        "url": "ev-charger-repairing-course.php",
+        "image": "assets\/media\/course\/evcharger1.webp",
+        "image_small": "assets\/media\/course\/evcharger1.webp",
+        "image_big": "assets\/media\/course\/evcharger1.webp",
+        "img_alt": "EV Charger Repairing"
+    }
+]

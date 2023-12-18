@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Laptop Repairing course in Delhi",
+        "short_content": "Multitech Institute is the best laptop repairing training institute in Delhi. You can join our Laptop Repairing Course In Delhi.",
+        "url": "blog/laptop-repairing-course-in-delhi.php",
+        "image": "assets\/media\/course\/LaptopRC-1.jpg",
+        "image_small": "assets\/media\/course\/LaptopRC-1-small.jpg",
+        "image_big": "assets\/media\/course\/LaptopRC-1-big.jpg",
+        "img_alt": "Laptop Repairing course"
+    },
+    {
+        "title": "Laptop Repairing course in Tilak Nagar",
+        "short_content": "Multitech Institute is the best laptop repairing training institute in Delhi. You can join our Laptop Repairing Course In Delhi.",
+        "url": "blog/laptop-repairing-institute-in-tilak-nagar.php",
+        "image": "assets\/media\/course\/MobileRC-1.jpg",
+        "image_small": "assets\/media\/course\/MobileRC-1-small.jpg",
+        "image_big": "assets\/media\/course\/MobileRC-1-big.jpg",
+        "img_alt": "LED TV Repairing Course"
+    },
+    {
+        "title": "LED TV REPAIRING COURSE",
+        "short_content": "Multitech is one of the best LED repairing institute in Delhi. You will get training on chip level for LED and LCD repairing course",
+        "url": "led-tv-repairing-course-in-delhi.php",
+        "image": "assets\/media\/course\/LedtvRC-1.jpg",
+        "image_small": "assets\/media\/course\/LedtvRC-1-small.jpg",
+        "image_big": "assets\/media\/course\/LedtvRC-1-big.jpg",
+        "img_alt": "Mobile Repairing Course"
+    },
+    {
+        "title": "Printer Repairing Course",
+        "short_content": "Printer repairing course which is conducted by Multitech Institute. In this course, students learn about LaserJet printers, inkjet printers",
+        "url": "printer-repairing-course.php",
+        "image": "assets\/media\/course\/PrinterRC-1.jpg",
+        "image_small": "assets\/media\/course\/PrinterRC-1-small.jpg",
+        "image_big": "assets\/media\/course\/PrinterRC-1-big.jpg",
+        "img_alt": "Printer Repairing Course"
+    },
+    {
+        "title": "CCTV Camera Repairing Course",
+        "short_content": "CCTV Camera has been important for every one in India for security reason. We provide CCTV technician course in our institute with 100%..",
+        "url": "cctv-training-institute.php",
+        "image": "assets\/media\/course\/CCTVRC-1.jpg",
+        "image_small": "assets\/media\/course\/CCTVRC-1-small.jpg",
+        "image_big": "assets\/media\/course\/CCTVRC-1-big.jpg",
+        "img_alt": "CCTV Camera Repairing Course Institute"
+    },
+    {
+        "title": "E-Vehicle Repairing Course",
+        "short_content": "CCTV Camera has been important for every one in India for security reason. We provide CCTV technician course in our institute with 100%..",
+        "url": "",
+        "image": "assets\/media\/course\/E-Rickshaw-RC-1.jpg",
+        "image_small": "assets\/media\/course\/E-Rickshaw-RC-1-small.jpg",
+        "image_big": "assets\/media\/course\/E-Rickshaw-RC-1-big.jpg",
+        "img_alt": "E-Rickshaw Repairing Course Institute"
+    }
+]
