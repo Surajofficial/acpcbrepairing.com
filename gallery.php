@@ -1,5 +1,5 @@
 <?php
-$title = "Gallery";
+$title = "Gallery|";
 $page = 'about';
 $metaData = array(
   'title'      => 'Gallery',
