@@ -1,8 +1,8 @@
 <?php
-$title = "Gallery|";
+$title = "Gallery";
 $page = 'about';
 $metaData = array(
-  'title'      => 'Gallery',
+  'title'      => 'Gallery|',
   'description' => 'Students can get online training for laptop repairing course. We are the best institute for online laptop repairing course. ',
   'keywords'    => 'online laptop repairing course, Laptop online repairing institute, best online laptop repairing course in india, online Mobile repairing institute, Mobile repairing course, online led tv repairing course '
 );
