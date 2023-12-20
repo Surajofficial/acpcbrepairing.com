@@ -5,7 +5,7 @@ $servername = "localhost:3308";
 $username = "root";
 $password = "";
 $database = "mobileorg2";
-$servername = "localhost";
+$servername = "119.18.54.59";
 $username = "cloudbik_acpcb";
 $password = "TbC&{?Ebn^o=";
 $database = "cloudbik_acpcb";

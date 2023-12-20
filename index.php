@@ -13,7 +13,7 @@ include('common/slider.inc.php');
 ?>
 <section class="bg-service pt-md-5 pb-1">
   <center class="pb-md-5">
-    <h1 class="whychoose">Our Course</h1>
+    <h2 class="whychoose">Our Course</h2>
   </center>
   <div class="container-fluid">
     <div class="row">
@@ -60,7 +60,7 @@ include('common/slider.inc.php');
 
       </div>
       <div class="col-md-6 text-center">
-        <a href="https://www.youtube.com/watch?v=QiaVtEVxdmo" target="_blank"><img src="assets/media/ac-repairing-course.webp" style="width:100%;"></a>
+        <a href="https://youtu.be/F3jsR1sKLQI?si=0yRcCrE801z9M88N" target="_blank"><img src="assets/media/ac-repairing-course.webp" style="width:100%;"></a>
       </div>
     </div>
   </div>

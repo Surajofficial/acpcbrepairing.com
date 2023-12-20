@@ -4,7 +4,7 @@
             <ul>
                 <li class="red"><a href="<?= URL; ?>"><i class="fas fa-home"></i> Home</a></li>
                 <li class="grey"><i class="fas fa-angle-double-right"></i></li>
-                <li class="red"><a href="<?= URL; ?>/courses.php">Courses</a></li>
+                <li class="red"><a href="<?= URL; ?>courses/">Courses</a></li>
                 <li class="grey"><i class="fas fa-angle-double-right"></i></li>
                 <li class="red"><?= $title; ?></li>
             </ul>

@@ -1,10 +1,10 @@
 <?php
 $metaData = array(
-    'title'          => 'Blogs',
+    'title'          => 'Courses',
     'description' => 'Multitech Institute is the best Laptop repairing institute in Delhi. We give practical based classes for LED TV repairing course and Mobile repairing course also.',
     'keywords'      => 'laptop repairing course, Laptop repairing institute, best laptop repairing course in india, Mobile repairing institute, Mobile repairing course, led tv repairing course, led tv repairing institute, best lcd led training institute, led tv training institute, led repairing institute in delhi, led repairing course, laptop repairing institute in tilak nagar, laptop repairing institute in uttam nagar',
 );
-$Course_Json = file_get_contents('data/blog.json');
+$Course_Json = file_get_contents('data/list_course.json');
 $Courses =  json_decode($Course_Json, true);
 include('common/header.inc.php');
 
@@ -16,7 +16,7 @@ include('common/header.inc.php');
 </div>
 <section class="bg-service pt-md-5 pb-1">
     <center class="pb-md-5">
-        <h1 class="whychoose">Our Blogs</h1>
+        <h1 class="whychoose">Our Courses</h1>
     </center>
     <div class="container-fluid">
         <div class="row">
