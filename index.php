@@ -38,8 +38,19 @@ include('common/slider.inc.php');
       </p>
 
     </div>
+
     <div class="col-lg-4 about-img wow fadeInUp">
       <?php include("common/enquiry.inc.php"); ?>
+    </div>
+    <div class="col-lg-12 content wow fadeInUp pt-md-4">
+      <h1 align="left">AC Repairing course</h1>
+      <p style="text-align:justify;">
+        In AC PCB Repairng Course we will be discussing about the AC Repairing course. The objective of this course is to provide the students with the necessary skills and knowledge required for repairing air conditioners. The course covers topics such as AC servicing, troubleshooting and repair, refrigeration cycle and more. It is a hands-on course that will enable the students to put their knowledge into practice. So if you are looking for a career in AC repairing, then this course is definitely for you. Read on to find out more about what the course has to offer.
+      </p>
+      <h2>What is AC Repairing?</h2>
+      <p style="text-align:justify;">AC repairing is a process of maintaining and repairing cooling systems such as refrigerators, freezers, and air conditioners. The aim of this process is to keep these machines running smoothly and efficiently. There are different aspects to AC repair, which include troubleshooting, cleaning, and replacement parts. In most cases, the first step in AC repair is to identify the problem. Once the problem has been identified, the next step is to find a solution. In some cases, the problem may be something as simple as a loose connection or a clogged filter. In other cases, however, the problem may be more serious and require more extensive repairs.
+      </p>
+
     </div>
   </div>
 </div>

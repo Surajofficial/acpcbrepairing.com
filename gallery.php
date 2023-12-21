@@ -41,10 +41,6 @@ include('common/header.inc.php');
   </div>
 
   <div class="container-fluid">
-
-
-
-
     <div class="row">
 
 
