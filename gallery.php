@@ -2,8 +2,8 @@
 $title = "Gallery";
 $page = 'about';
 $metaData = array(
-  'title'      => 'Gallery',
-  'description' => 'Students can get online training for laptop repairing course. We are the best institute for online laptop repairing course. ',
+  'title'      => 'Gallery for AC PCB Repairing and EV Repairing Courses',
+  'description' => 'Students can get online training for Ac Pcb Repairing Course, Ev Repairing Course. We are the best institute for Ac Pcb Repairing Course, Ev Repairing Course.',
   'keywords'    => 'online laptop repairing course, Laptop online repairing institute, best online laptop repairing course in india, online Mobile repairing institute, Mobile repairing course, online led tv repairing course '
 );
 include('common/header.inc.php');
@@ -55,7 +55,7 @@ include('common/header.inc.php');
       ?>
         <div class="col-lg-3 col-md-4 col-xs-6 thumb">
           <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" data-image="assets/media/gallery/<?= $files[$i] ?>" data-target="#image-gallery">
-            <img class="img-thumbnail" src="assets/media/gallery/<?= $files[$i] ?>" alt="Another alt text">
+            <img class="img-thumbnail" src="assets/media/gallery/<?= $files[$i] ?>" alt="<?= str_replace('.jpg', '', $files[$i]) ?>">
           </a>
         </div>
       <?php
