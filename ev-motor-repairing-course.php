@@ -26,8 +26,8 @@ include('common/header.inc.php');
 
 
 
-                    <h1>Ev Motor Repairing Institute in Delhi
-                    </h1>
+                    <h2>Ev Motor Repairing Institute in Delhi
+                    </h2>
                     <p>This <strong>Ev Motor Repairing Institute in Delhi</strong> covers the most critical issues and basic ideas in the field. It focuses on the induction motor and how it should be specified, installed, protected and controlled, maintained, tested, and managed in the distribution system. These electric motors control seminar will detail how to use tools and strategies to better figure out how the same motor performs when being run by Vector and Scalar Variable Frequency Drives.
                         The Ev motor repairing Course will spend most of its time on the Squirrel Cage Induction Motor, but it will also briefly talk about the Wound Rotor, Synchronous and Permanent Magnet motors. How well a motor works can be judged by how much torque its shaft can make. With the tools provided, you can determine how the motor reacts when its performance characteristics change. Real-world examples will be used to show the most common reasons why motors break down, and how to avoid or lessen the effects of these will be discussed.
                         This is the best way to explain how an AC motor works. To choose a suitable motor, you need to know how voltage, frequency, temperature, ambient temperature, and other environmental factors work together.

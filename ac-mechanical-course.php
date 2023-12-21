@@ -27,16 +27,16 @@ include('common/header.inc.php');
         <div class="row  mt-5">
             <div class="col-lg-8">
                 <div class="single-course-details">
-                    <h1 class="course-title pb-3">How To Pick The Right AC Mechanical Repairing Institute in Delhi
-                    </h1>
+                    <h2 class="course-title pb-3">How To Pick The Right AC Mechanical Repairing Institute in Delhi
+                    </h2>
                     <p>There are many <strong>AC Mechanical Repairing Institute in Delhi</strong> out there, but how do you know which one is
                         right for you? Here are a few factors to consider when making your decision: -The
                         Course’s accreditation -The quality of the instructors -The curriculum -The facilities
                         -The cost Keep these factors in mind when researching different Courses to find the one
                         that best meets your needs.
                     </p>
-                    <h1 class="course-title pb-3">एसी मैकेनिकल रिपेयरिंग कोर्स
-                    </h1>
+                    <h2 class="course-title pb-3">एसी मैकेनिकल रिपेयरिंग कोर्स
+                    </h2>
                     <p>एसी मैकेनिकल रिपेयरिंग कोर्स एक ऐसा कोर्स है जिसमें छात्रों को एयर कंडीशनिंग सिस्टम की बेसिक और एडवांस रिपेयरिंग सिखाई जाती हैं। इस कोर्स में छात्रों को एसी के विभिन्न हिस्सों जैसे कंप्रेशर, इवेपोरेटर, कंडेंसर, रेफ्रिजरेंट और वॉल्व के बारे में जानकारी दी जाती है। इस कोर्स में छात्रों को एसी मेंटेनेंस और रिपेयरिंग की तकनीक भी सिखाई जाती है। इस कोर्स से स्टूडेंट्स को एसी रिपेयरिंग में काफी अच्छी नॉलेज और स्किल्स मिलती हैं।
 
                         एसी मैकेनिकल रिपेयरिंग कोर्स की अवधि आम तौर पर 1 महीने से 3 महीने तक होती है। इस कोर्स में छात्रों को थ्योरी क्लास के साथ-साथ प्रैक्टिकल ट्रेनिंग भी दी जाती है। इस कोर्स को करने के लिए छात्रों का 10वीं या 12वीं पास होना जरूरी नहीं है। इस कोर्स के पूरा होने के बाद, छात्र एसी रिपेयरिंग वर्कशॉप, सर्विस सेंटर शुरू कर सकते हैं या अपना खुद का रिपेयरिंग व्यवसाय भी शुरू कर सकते हैं। इस कोर्स के साथ नौकरी के अवसर भी उपलब्ध हैं, जैसे एसी टेक्नीशियन, एसी मैकेनिक, एसी रिपेयरिंग स्पेशलिस्ट आदि।

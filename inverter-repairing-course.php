@@ -24,8 +24,8 @@ include('common/header.inc.php');
             <div class="col-lg-8">
                 <div class="single-course-details">
 
-                    <h1>Inverter Repairing Institute in Delhi: Is It Worth The Time And Money?
-                    </h1>
+                    <h2>Inverter Repairing Institute in Delhi: Is It Worth The Time And Money?
+                    </h2>
                     <p>In this blog, we will be discussing about the <strong>Inverter Repairing Institute in Delhi</strong>. This course is designed to teach students how to repair inverters. We will discuss the pros and cons of the course, so that you can decide if it is worth your time and money. By the end of this, you should have a better understanding of what the course covers and whether or not it is right for you.
 
                     </p>

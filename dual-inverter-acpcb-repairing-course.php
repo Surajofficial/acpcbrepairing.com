@@ -23,7 +23,7 @@ include('common/header.inc.php');
         <div class="row  mt-5">
             <div class="col-lg-8">
                 <div class="single-course-details">
-                    <h1> Dual Inverter ACPCB Repairing Institute in Delhi </h1>
+                    <h2> Dual Inverter ACPCB Repairing Institute in Delhi </h2>
                     <p>The <strong> Dual Inverter ACPCB Repairing Institute in Delhi</strong> is specially designed for those who want to know about the
                         working of an inverter air conditioner. The course covers all the aspects related to the
                         repair and maintenance of an inverter air conditioner. The Dual Inverter repair course is

@@ -23,13 +23,13 @@ include('common/header.inc.php');
         <div class="row  mt-5">
             <div class="col-lg-8">
                 <div class="single-course-details">
-                    <h1>E Rickshaw Repairing Institute in Delhi</h1>
+                    <h2>E Rickshaw Repairing Institute in Delhi</h2>
                     <p>
                         Compared to standard autos, these vehicles provide much more than novelty. They've recently become an essential contributor to the ongoing energy revolution. There will need to be significant technological, digital, and sociological shifts made before the full potential of transportation and energy systems can be realized. All you need to know about the cutting-edge technology found in today's electric vehicles may be learned in this e rickshaw repairing course.
                         <br>
                         The charging infrastructure for electric vehicles is the emphasis of this <a href="./e-rickshaw-charger-repairing-course.php">e rickshaw charger repairing course</a> on maintaining an E Rickshaw Controller. As a result of this lesson, students will have a firm grasp of the economic concepts underpinning current and future charging station technologies. The future of transportation will be electric automobiles.
                     </p>
-                    <h1>ई रिक्शा रिपेयरिंग कोर्स</h1>
+                    <h2>ई रिक्शा रिपेयरिंग कोर्स</h2>
                     <p>ई रिक्शा रिपेयरिंग कोर्स एक वोकेशनल कोर्स है जिसमें छात्रों को इलेक्ट्रिक रिक्शा (ई-रिक्शा) की बेसिक और एडवांस रिपेयरिंग तकनीक सिखाई जाती है। इस कोर्स में छात्रों को ई-रिक्शा के बारे में ज्ञान दिया जाता है, जैसे की मोटर, कंट्रोलर, बैटरी, ब्रेक, और सस्पेंशन सिस्टम।
                         इस कोर्स में छात्रों को ई-रिक्शा को सही तरीके से रिपेयर करना सिखाया जाता है, खराब पुर्जों को कैसे बदलना है, और नियमित रखरखाव करने की तकनीक सिखाते हैं। इस कोर्स के बाद स्टूडेंट्स ई-रिक्शा रिपेयरिंग वर्कशॉप में काम कर सकते हैं, या फिर अपना खुद का बिज़नेस शुरू कर सकते हैं।
                         इस कोर्स के लिए छात्रों को कुछ बुनियादी उपकरणों की जरुरत होती है , जैसे मल्टीमीटर, सोल्डरिंग आयरन, प्लायर आदि।

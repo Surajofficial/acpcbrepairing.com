@@ -29,8 +29,8 @@ include('common/header.inc.php');
         <div class="row  mt-5">
             <div class="col-lg-8">
                 <div class="single-course-details">
-                    <h1> Ev Controller Repairing Institute in Delhi
-                    </h1>
+                    <h2> Ev Controller Repairing Institute in Delhi
+                    </h2>
                     <p>It is hard to say how many new jobs will be made possible by producing electric vehicles. But if electric cars became more popular, the number of people working in the oil industry would have to go down. But there are reasons to believe that making personal transportation run on electricity will help the economy grow. There will be lots of jobs in the growing auto industry. Engineers in the auto industry come up with and make the different technologies that make cars use less gas. Some businesses will hire many people to make vehicles, make advanced batteries, and do research and development.
                         This seminar looks at the science behind cars that run on batteries. Join us as we delve into the world of automotive electronics. We'll talk about how electric vehicles work on the inside, how automotive sensors and actuators work, the different control units that can be found in EVs, the different ways that EVs can communicate, how important motors, power electronics, and batteries are, and more.
 

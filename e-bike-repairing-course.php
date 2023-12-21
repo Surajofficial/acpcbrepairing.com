@@ -23,11 +23,11 @@ include('common/header.inc.php');
         <div class="row  mt-5">
             <div class="col-lg-8">
                 <div class="single-course-details">
-                    <h1>E Bike Repairing Institute in Delhi</h1>
+                    <h2>E Bike Repairing Institute in Delhi</h2>
                     <p>
                         This <strong>E Bike Repairing Institute in Delhi</strong> will teach you the essentials of electric bike operation, including how 2W and 3W models operate, diagnose problems with the motor, controller, and charger, and perform repairs independently.
                     </p>
-                    <h1> E-bike रिपेयरिंग कोर्स</h1>
+                    <h2> E-bike रिपेयरिंग कोर्स</h2>
                     <p>
                         अगर आप एक E-bike रिपेयरिंग कोर्स की तलाश में हैं तो आप यहां सही जगह पर हैं। यहां हम एक E-bike रिपेयरिंग कोर्स के बारे में हिंग्लिश में बताएँगे।
                         एक E-bike रिपेयरिंग कोर्स उन लोगों के लिए उपयोगी होता है जो अपने वाहन की समस्याओं को स्वयं हल करना चाहते हैं। इस कोर्स के माध्यम से आप अपने E-bike की जांच करना सीख सकते हैं और उसमें कोई भी समस्या होने पर उसे ठीक करने के तरीकों को समझ सकते हैं।

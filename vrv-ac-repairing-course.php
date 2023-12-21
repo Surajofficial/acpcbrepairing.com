@@ -23,7 +23,7 @@ include('common/header.inc.php');
         <div class="row  mt-5">
             <div class="col-lg-8">
                 <div class="single-course-details">
-                    <h1>VRV REPAIRING COURSE </h1>
+                    <h2>VRV REPAIRING COURSE </h2>
                     <p>
                         Interested in <strong>VRV repairing course</strong>? If yes, you will want to take advantage of the VRV repairing course in Tilak Nagar at VRV repairing institute in Delhi! This intense training programme will teach you everything you need about VRV systems in commercial and residential buildings. This training is aimed at both total beginners and seasoned professionals. Register now for this privilege!
                     </p>

@@ -23,7 +23,7 @@ include('common/header.inc.php');
         <div class="row  mt-5">
             <div class="col-lg-8">
                 <div class="single-course-details">
-                    <h1>E CAR REPAIRING COURSE</h1>
+                    <h2>E CAR REPAIRING COURSE</h2>
                     <p>This <strong>e car repairing course</strong> investigates the technology underlying battery-powered automobiles. Our institute focuses on automotive electronics, electric vehicle operation, automotive sensors and actuator operation, electric vehicle control units, communication protocols, motor and power electronics, and battery technologies.</p>
                     <h2>The institution's OBJECTIVES ARE:</h2>
                     <p>

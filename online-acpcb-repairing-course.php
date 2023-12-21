@@ -23,7 +23,7 @@ include('common/header.inc.php');
         <div class="row  mt-5">
             <div class="col-lg-8">
                 <div class="single-course-details">
-                    <h1>ONLINE AC PCB REPAIRING COURSE</h1>
+                    <h2>ONLINE AC PCB REPAIRING COURSE</h2>
                     <p>
                         Presumably, based on the name alone, printed circuit board (PCB) repairers and technicians work on HVAC systems in buildings such as residences, offices, and schools. Their expertise is restricted to the operation of air conditioning systems, but they are also well-versed in heating and ventilation system maintenance. According to the individual's preferences and level of competence, PCB repair experts may work for the government, private companies, or as independent contractors. A suitable <strong>online AC PCB repairing course</strong> gives prospective technicians the education and training to enter the sector.
                     </p>

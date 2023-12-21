@@ -23,7 +23,7 @@ include('common/header.inc.php');
         <div class="row  mt-5">
             <div class="col-lg-8">
                 <div class="single-course-details">
-                    <h1>Inverter Ac PCB Repair Institute In Delhi</h1>
+                    <h2>Inverter Ac PCB Repair Institute In Delhi</h2>
                     <p>The <strong>Inverter AC PCB Repairing course In Delhi</strong> from Multitech Institute is designed to provide you
                         with the skills and knowledge necessary to repair inverter ACs. Inverter ACs are a type
                         of air conditioner that is becoming increasingly popular due to their energy efficiency.
@@ -31,7 +31,7 @@ include('common/header.inc.php');
                         soldering and more. By the end of the course, you will be able to confidently repair any
                         Inverter AC PCB.
                     </p>
-                    <h1>इन्वर्टर एसी पीसीबी रिपेयरिंग कोर्स </h1>
+                    <h2>इन्वर्टर एसी पीसीबी रिपेयरिंग कोर्स </h2>
                     <p>इन्वर्टर एसी पीसीबी रिपेयरिंग कोर्स का मै आप सीख सकते हैं कि कैसे इन्वर्टर एसी प्रिंटेड सर्किट बोर्ड (PCB ) को रिपेयर किया जाए। इस कोर्स में आपको इन्वर्टर एसी पीसीबी के वर्किंग प्रिंसिपल, इन्वर्टर एसी पीसीबी के कंपोनेंट्स, इन्वर्टर एसी पीसीबी की मेंटेनेंस, इन्वर्टर एसी पीसीबी की प्रॉब्लम डायग्नोसिस और उन्हें कैसे रिपेयर किया जाए, जैसे विषय पर ज्ञान मिलेगा। इन्वर्टर एसी पीसीबी रिपेयरिंग की मांग हर समय होती है क्योंकि आजकल इन्वर्टर एसी बहुत लोकप्रिय हैं। आप स्थानीय बाजार में अपनी सेवाएं प्रदान कर सकते हैं और अधिक से अधिक ग्राहकों को आकर्षित कर सकते हैं।
                         इन्वर्टर एसी पीसीबी रिपेयरिंग कोर्स के बहुत फायदे हैं, कुछ फायदे नीचे दिए गए हैं:
                         नौकरी के अवसर - इन्वर्टर एसी पीसीबी रिपेयरिंग कोर्स पूरा करने के बाद आप एसी रिपेयर इंडस्ट्री में जॉब के अवसर ढूंढ़ सकते हैं। इन्वर्टर एसी पीसीबी तकनीशियन काफी मांग में हैं और आप उच्च वेतन की भी उम्मीद कर सकते हैं।

@@ -22,7 +22,7 @@ include('common/header.inc.php');
         <div class="row  mt-5">
             <div class="col-lg-8">
                 <div class="single-course-details">
-                    <h1>ONLINE AC MECHANICAL REPAIRING COURSE </h1>
+                    <h2>ONLINE AC MECHANICAL REPAIRING COURSE </h2>
                     <p>
                         Every student aspires to obtain a lucrative job or an intriguing opportunity. If you are currently seeking employment, you can rest confident that we will do everything possible to assist you. You can reach out to our advisors at any time, both before and after the <strong>online AC mechanical repairing course</strong>, and they will provide you with the professional and entrepreneurial assistance you need to succeed.
                     </p>

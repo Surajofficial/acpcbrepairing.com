@@ -23,7 +23,7 @@ include('common/header.inc.php');
         <div class="row  mt-5">
             <div class="col-lg-8">
                 <div class="single-course-details">
-                    <h1>ELECTRIC VEHICLE REPAIRING COURSE</h1>
+                    <h2>ELECTRIC VEHICLE REPAIRING COURSE</h2>
                     <p>
                         Forecasting the number of new employees produced due to electric automobiles is challenging. As the number of electric vehicles increases, some oil industry employment will inevitably be lost. But there is reason to believe that electrification of private transportation will enhance economic growth. Many individuals will find employment in the numerous areas of the auto industry that will grow as a result.
                         <br>

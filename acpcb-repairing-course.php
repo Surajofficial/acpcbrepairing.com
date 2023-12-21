@@ -33,8 +33,8 @@ include('common/header.inc.php');
         <div class="row  mt-5">
             <div class="col-lg-8">
                 <div class="single-course-details">
-                    <h1 class="course-title pb-3">Ac PCB Repairing Institute in Delhi: What You Need To Know
-                    </h1>
+                    <h2 class="course-title pb-3">Ac PCB Repairing Institute in Delhi: What You Need To Know
+                    </h2>
                     <p>If you're looking to get into the electronics repair business, then you'll need to know how to fix printed circuit boards (PCBs). And while there are a lot of different aspects to PCB repair, one of the most important is understanding how to work with alternating current (AC) circuits. In this blog, we'll introduce you to our <strong>Ac PCB Repairing Institute in Delhi</strong>. This course will teach you everything you need to know about working with AC circuits, including safety concerns, testing procedures, and repair techniques. So whether you're just starting out in electronics repair or you're looking to brush up on your skills, this course is for you. Read on to learn more!
                     </p>
                     <h2 class="course-title pb-3">एसी पीसीबी रिपेयरिंग कोर्स

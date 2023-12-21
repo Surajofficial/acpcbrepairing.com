@@ -1,11 +1,11 @@
 <?php
 define('FILE_NAME', 'AC PCB Repairing syllabus.pdf');
-$title = "Inverter Repairing Course";
-$page = 'Inverter Repairing Course';
+$title = "Iphone Repairing Course";
+$page = 'Iphone Repairing Course';
 $metaData = array(
-    'title'          => 'Inverter Repairing Course | Inverter Repairing Institute in Delhi',
-    'description' => 'The use of inverter is very high now a days and an Inverter Repairing Course can be helpful only if you find best Inverter Repairing Institute in Delhi',
-    'keywords'      => 'Inverter repair Course near me, Inverter repairing Course, Inverter repairing Course fees, Inverter technician Course near me, Inverter repairing Course in delhi, Inverter repairing Course online, Inverter repair training centers near me, Inverter repairing Course near me, Inverter mechanic Course fees, Inverter mechanic Course, Inverter technician Course fees, Inverter technician Course, Inverter repairing Course',
+    'title'          => 'Iphone Repairing Course | Iphone Repairing Institute in Delhi',
+    'description' => 'The use of Iphone is very high now a days and an Iphone Repairing Course can be helpful only if you find best Iphone Repairing Institute in Delhi',
+    'keywords'      => 'Iphone repair Course near me, Iphone repairing Course, Iphone repairing Course fees, Iphone technician Course near me, Iphone repairing Course in delhi, Iphone repairing Course online, Iphone repair training centers near me, Iphone repairing Course near me, Iphone mechanic Course fees, Iphone mechanic Course, Iphone technician Course fees, Iphone technician Course, Iphone repairing Course',
 );
 include('common/header.inc.php');
 ?>

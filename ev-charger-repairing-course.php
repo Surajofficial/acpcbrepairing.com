@@ -27,8 +27,8 @@ include('common/header.inc.php');
 
 
 
-                    <h1>Ev Charger Repairing Institute in Delhi
-                    </h1>
+                    <h2>Ev Charger Repairing Institute in Delhi
+                    </h2>
                     <p>Charging stations for electric cars sometimes need to be fixed. Thanks to Electric City, you won't have to worry about service for as long as your charger works. If you get stuck without a battery and find a problem, we can fix it quickly under warranty.
                     </p>
                     <h3>Who should take the Electric Vehicle Charging Course?</h3>

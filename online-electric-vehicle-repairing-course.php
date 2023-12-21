@@ -23,7 +23,7 @@ include('common/header.inc.php');
         <div class="row  mt-5">
             <div class="col-lg-8">
                 <div class="single-course-details">
-                    <h1>ONLINE ELECTRIC VEHICLE REPAIRING COURSE</h1>
+                    <h2>ONLINE ELECTRIC VEHICLE REPAIRING COURSE</h2>
                     <p>
                         Governments worldwide are putting pressure on automakers to increase the production of ecologically friendly automobiles in response to a rise in demand prompted by rising petrol prices. Begin your education on the right foot by studying the fundamentals of electric vehicle design. This <strong>online electric vehicle repairing course</strong> is meant for everyone interested in automobiles, including mechanics, engineers, and fans.
                     </p>
