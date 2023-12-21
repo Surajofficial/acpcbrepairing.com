@@ -1,6 +1,6 @@
 <?php
 $metaData = array(
-    'title'          => 'Blogs',
+    'title'          => 'Blogs for Ac Pcb Repairing Course, Ev Repairing Institute ',
     'description' => 'Multitech Institute is the best Laptop repairing institute in Delhi. We give practical based classes for LED TV repairing course and Mobile repairing course also.',
     'keywords'      => 'laptop repairing course, Laptop repairing institute, best laptop repairing course in india, Mobile repairing institute, Mobile repairing course, led tv repairing course, led tv repairing institute, best lcd led training institute, led tv training institute, led repairing institute in delhi, led repairing course, laptop repairing institute in tilak nagar, laptop repairing institute in uttam nagar',
     'canonical'    => 'https://www.multitechinstitute.in',
