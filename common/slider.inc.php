@@ -10,21 +10,21 @@
       <picture>
         <source media='(min-width: 451px)' srcset='assets/media/banner/home/banneracpcbrepairing.webp' />
         <source media='(max-width: 450px)' srcset='assets/media/banner/home/ResizeBanner(350x294)5.webp' />
-        <img src='assets/media/banner/home/banneracpcbrepairing.webp' alt="slider 1" />
+        <img src='assets/media/banner/home/banneracpcbrepairing.webp' alt="AC PCB Repairing Repairing Course" />
       </picture>
     </div>
     <div class="carousel-item">
       <picture>
         <source media='(min-width: 451px)' srcset='assets/media/banner/home/bannermechnical.webp' />
         <source media='(max-width: 450px)' srcset='assets/media/banner/home/ResizeBanner(350x294)6.webp' />
-        <img src='assets/media/banner/home/bannermechnical.webp' alt="slider 2" />
+        <img src='assets/media/banner/home/bannermechnical.webp' alt="AC Mechanical Repairing Course" />
       </picture>
     </div>
     <div class="carousel-item">
       <picture>
         <source media='(min-width: 451px)' srcset='assets/media/banner/home/bannarerinverter.webp' />
         <source media='(max-width: 450px)' srcset='assets/media/banner/home/ResizeBanner(350x294)4.webp' />
-        <img src='assets/media/banner/home/bannarerinverter.webp' alt="slider 3" />
+        <img src='assets/media/banner/home/bannarerinverter.webp' alt="Inverter and UPS Repairing Course" />
       </picture>
     </div>
   </div>

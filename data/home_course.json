@@ -33,7 +33,7 @@
         "image": "assets\/media\/course\/controller1.webp",
         "image_small": "assets\/media\/course\/controller1.webp",
         "image_big": "assets\/media\/course\/controller1.webp",
-        "img_alt": "EV Controller Repairing"
+        "img_alt": "e rickshaw Repairing Course"
     },
     {
         "title": "EV Motor Repairing",
@@ -42,7 +42,7 @@
         "image": "assets\/media\/course\/motar1.webp",
         "image_small": "assets\/media\/course\/motar1.webp",
         "image_big": "assets\/media\/course\/motar1.webp",
-        "img_alt": "EV Motor Repairing"
+        "img_alt": "EV Motor Repairing Course"
     },
     {
         "title": "EV Charger Repairing",
@@ -51,6 +51,6 @@
         "image": "assets\/media\/course\/evcharger1.webp",
         "image_small": "assets\/media\/course\/evcharger1.webp",
         "image_big": "assets\/media\/course\/evcharger1.webp",
-        "img_alt": "EV Charger Repairing"
+        "img_alt": "EV Charger Repairing Course"
     }
 ]

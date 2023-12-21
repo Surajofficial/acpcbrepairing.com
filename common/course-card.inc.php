@@ -13,7 +13,7 @@
   <picture class="card-img-top">
     <source media='(min-width: 401px)' srcset='<?= $cours['image_big']; ?>' />
     <source media='(max-width: 400px)' srcset='<?= $cours['image_small']; ?>' />
-    <img src='<?= $cours['image_big']; ?>' />
+    <img src='<?= $cours['image_big']; ?>' alt="<?= $cours['img_alt'] ?>" />
   </picture>
   <div class="card-body">
     <h4 class="card-title weight-100 <?= $cours['title'] == 'EV Controller Repairing' ? 'title-font' : '' ?>"><?= $cours['title']; ?></h4>
